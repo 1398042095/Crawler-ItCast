@@ -5,19 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-<<<<<<< HEAD
-    <artifactId>Crawler-ItCast</artifactId>
-=======
     <artifactId>crawler</artifactId>
->>>>>>> 5b5fe21 (Initial commit)
     <version>1.0-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
-<<<<<<< HEAD
-=======
     <!--mavn配置注释 -->
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
@@ -34,6 +28,5 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
->>>>>>> 5b5fe21 (Initial commit)
 
 </project>
